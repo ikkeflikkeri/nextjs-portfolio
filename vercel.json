@@ -1,4 +1,5 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "installCommand": "npm install --include=optional --workspaces --include-workspace-root && bash scripts/install-linux-binaries.sh"
+  "installCommand": "npm install --include=optional --workspaces --include-workspace-root && bash scripts/install-linux-binaries.sh",
+  "outputDirectory": "apps/web/.next"
 }
