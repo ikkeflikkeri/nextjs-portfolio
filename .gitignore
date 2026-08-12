@@ -28,3 +28,5 @@ logs
 .claude/
 .cursor/
 .vscode/
+
+.vercel
